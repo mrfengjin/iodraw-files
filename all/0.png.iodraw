@@ -434,9 +434,6 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-115" value="深度估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1533.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-120" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
-          <mxGeometry y="1426" width="90" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
