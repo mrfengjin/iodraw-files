@@ -412,9 +412,6 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-52" value="深度图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1496" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-53" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="1526" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3jnX--Cv7vsl670i_cKp-54" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="1396" width="60" height="30" as="geometry" />
         </mxCell>
