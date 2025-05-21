@@ -452,8 +452,8 @@
             <mxPoint x="50" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-126" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=10;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1366" width="100" height="60" as="geometry" />
+        <mxCell id="3jnX--Cv7vsl670i_cKp-127" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
