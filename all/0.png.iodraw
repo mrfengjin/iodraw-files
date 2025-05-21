@@ -434,25 +434,7 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-115" value="深度估计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="1533.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-121" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="1521" as="sourcePoint" />
-            <mxPoint x="20" y="1450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-124" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1541" as="sourcePoint" />
-            <mxPoint x="40" y="1470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-125" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="1551" as="sourcePoint" />
-            <mxPoint x="50" y="1480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-127" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3jnX--Cv7vsl670i_cKp-127" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="960" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
