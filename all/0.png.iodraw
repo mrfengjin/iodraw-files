@@ -398,9 +398,6 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-48" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="760" y="1551" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3jnX--Cv7vsl670i_cKp-46" target="3jnX--Cv7vsl670i_cKp-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3jnX--Cv7vsl670i_cKp-50" value="法线图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="582.5" y="1456" width="65" height="30" as="geometry" />
         </mxCell>
