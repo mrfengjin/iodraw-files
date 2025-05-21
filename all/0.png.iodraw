@@ -437,6 +437,9 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-127" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="960" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3jnX--Cv7vsl670i_cKp-128" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
