@@ -446,7 +446,10 @@
         <mxCell id="3jnX--Cv7vsl670i_cKp-128" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="3jnX--Cv7vsl670i_cKp-129">
           <mxGeometry x="21.53846153846154" y="15" width="64.61538461538463" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3jnX--Cv7vsl670i_cKp-132" value="L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3jnX--Cv7vsl670i_cKp-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3jnX--Cv7vsl670i_cKp-132" target="3jnX--Cv7vsl670i_cKp-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3jnX--Cv7vsl670i_cKp-132" value="单目深度估计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="1600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
