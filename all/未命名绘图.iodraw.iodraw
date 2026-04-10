@@ -22,7 +22,7 @@
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-4" value="&#xa;自动化数据采集&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kEW_a6mjolXFKWwBJ2wn-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kEW_a6mjolXFKWwBJ2wn-6" value="全局点云真值生成" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
