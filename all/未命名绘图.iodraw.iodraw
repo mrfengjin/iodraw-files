@@ -8,33 +8,33 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-1" value="采集对象选取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEW_a6mjolXFKWwBJ2wn-2" target="kEW_a6mjolXFKWwBJ2wn-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-2" value="方案确定" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEW_a6mjolXFKWwBJ2wn-4" target="kEW_a6mjolXFKWwBJ2wn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-4" value="自动化数据采集" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kEW_a6mjolXFKWwBJ2wn-6" target="kEW_a6mjolXFKWwBJ2wn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-6" value="全局点云真值生成" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-8" value="训练集预处理" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kEW_a6mjolXFKWwBJ2wn-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kEW_a6mjolXFKWwBJ2wn-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="440" as="sourcePoint" />
-            <mxPoint x="250" y="430" as="targetPoint" />
+            <mxPoint x="270" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
