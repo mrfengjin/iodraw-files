@@ -90,10 +90,10 @@
         <mxCell id="3igXxse2rQnX9rnU2GrR-34" value="演进" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3igXxse2rQnX9rnU2GrR-36" value="稠密点云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3igXxse2rQnX9rnU2GrR-36" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;稠密点云&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3igXxse2rQnX9rnU2GrR-37" value="表面&lt;span style=&quot;font-size:12.0pt;line-height:150%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="3igXxse2rQnX9rnU2GrR-37" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;表面&lt;span style=&quot;line-height: 150%;&quot;&gt;模型&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="700" y="250" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
