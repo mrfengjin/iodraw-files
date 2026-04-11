@@ -33,11 +33,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3igXxse2rQnX9rnU2GrR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3igXxse2rQnX9rnU2GrR-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3igXxse2rQnX9rnU2GrR-8" value="&lt;span style=&quot;font-size:12.0pt;line-height:150%;&amp;lt;br/&amp;gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;多视图立体&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;MVS&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -61,8 +56,8 @@
         </mxCell>
         <mxCell id="3igXxse2rQnX9rnU2GrR-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="480" as="sourcePoint" />
-            <mxPoint x="180" y="430" as="targetPoint" />
+            <mxPoint x="640" y="215" as="sourcePoint" />
+            <mxPoint x="690" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3igXxse2rQnX9rnU2GrR-28" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;imageWidth=24;fillOpacity=100;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
