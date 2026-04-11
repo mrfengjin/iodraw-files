@@ -16,6 +16,11 @@
         <mxCell id="3igXxse2rQnX9rnU2GrR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3igXxse2rQnX9rnU2GrR-5" target="3igXxse2rQnX9rnU2GrR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3igXxse2rQnX9rnU2GrR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3igXxse2rQnX9rnU2GrR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3igXxse2rQnX9rnU2GrR-5" value="&lt;span style=&quot;font-size:12.0pt;line-height:150%;&lt;br/&gt;font-family:宋体;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;运动恢复结构&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 17px;&quot;&gt;SfM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,6 +52,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3igXxse2rQnX9rnU2GrR-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3igXxse2rQnX9rnU2GrR-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
