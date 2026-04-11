@@ -159,7 +159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3igXxse2rQnX9rnU2GrR-56" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3igXxse2rQnX9rnU2GrR-56" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;互相促进&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="600" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
