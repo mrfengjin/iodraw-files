@@ -8,7 +8,7 @@
           <mxGeometry x="170" y="240" width="440" height="240" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.2;shadow=1;fillOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="350" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="360" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e51400;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="20" height="20" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="500" y="595" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-120;" vertex="1" parent="1">
-          <mxGeometry x="570" y="572" width="52" height="25" as="geometry" />
+          <mxGeometry x="600" y="550" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e51400;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="314" y="270" width="20" height="20" as="geometry" />
@@ -61,7 +61,7 @@
             <mxPoint x="334" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kqA3fOVjUYb93ncLGmof-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.581;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kqA3fOVjUYb93ncLGmof-16">
+        <mxCell id="kqA3fOVjUYb93ncLGmof-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.581;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kqA3fOVjUYb93ncLGmof-15" target="kqA3fOVjUYb93ncLGmof-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="560" as="sourcePoint" />
             <mxPoint x="400" y="430" as="targetPoint" />
