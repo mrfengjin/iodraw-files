@@ -13,8 +13,8 @@
         <mxCell id="kqA3fOVjUYb93ncLGmof-4" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e51400;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kqA3fOVjUYb93ncLGmof-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" vertex="1" parent="1">
-          <mxGeometry x="390" y="370" width="52" height="25" as="geometry" />
+        <mxCell id="kqA3fOVjUYb93ncLGmof-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="200" y="585" width="52" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
