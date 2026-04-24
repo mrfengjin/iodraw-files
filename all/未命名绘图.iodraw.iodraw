@@ -31,6 +31,9 @@
         <mxCell id="kqA3fOVjUYb93ncLGmof-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-110;" vertex="1" parent="1">
           <mxGeometry x="500" y="595" width="52" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="kqA3fOVjUYb93ncLGmof-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-120;" vertex="1" parent="1">
+          <mxGeometry x="558" y="560" width="52" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
