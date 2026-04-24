@@ -25,8 +25,8 @@
         <mxCell id="kqA3fOVjUYb93ncLGmof-12" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-100;" vertex="1" parent="1">
           <mxGeometry x="400" y="605" width="52" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kqA3fOVjUYb93ncLGmof-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-80;" vertex="1" parent="1">
-          <mxGeometry x="334" y="610" width="52" height="25" as="geometry" />
+        <mxCell id="kqA3fOVjUYb93ncLGmof-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-85;" vertex="1" parent="1">
+          <mxGeometry x="334" y="605" width="52" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
