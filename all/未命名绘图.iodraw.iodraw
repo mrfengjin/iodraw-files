@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-1" value="绪论" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="400" height="310" as="geometry">
+          <mxGeometry x="10" y="275" width="400" height="310" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -55,8 +55,11 @@
             <mxGeometry x="270" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-39" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="1" source="6ln-nY6H9Tqeiis7B4-Y-20" target="6ln-nY6H9Tqeiis7B4-Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-20" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="490" y="270" width="223" height="310" as="geometry">
+          <mxGeometry x="440" y="275" width="223" height="310" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -80,6 +83,34 @@
         </mxCell>
         <UserObject label="基于深度学习的 NVS / 三维重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-25">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
+            <mxGeometry x="50" y="245" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="743" y="275" width="223" height="310" as="geometry">
+            <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="  多源特征融合的弱纹理区域识别" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
+            <mxGeometry x="50" y="45" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-35" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-33" source="6ln-nY6H9Tqeiis7B4-Y-34" target="6ln-nY6H9Tqeiis7B4-Y-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label=" 多源先验引导的分区几何正则化" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-36">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
+            <mxGeometry x="50" y="145" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-33" source="6ln-nY6H9Tqeiis7B4-Y-36" target="6ln-nY6H9Tqeiis7B4-Y-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="基于深度学习的 NVS / 三维重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-38">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
             <mxGeometry x="50" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
