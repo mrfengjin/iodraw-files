@@ -91,8 +91,8 @@
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;几何一致性筛选与空间聚类&lt;/font&gt;&lt;/span&gt;" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-34">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
+        <UserObject label="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;几何一致性筛选与空间聚类&lt;/font&gt;&lt;/span&gt;" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
             <mxGeometry x="50" y="45" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
