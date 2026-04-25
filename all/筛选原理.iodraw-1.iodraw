@@ -127,10 +127,10 @@
         <mxCell id="x--NQhEB0yfk0Soro504-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-28;" vertex="1" parent="1">
           <mxGeometry x="70" y="515" width="52" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="x--NQhEB0yfk0Soro504-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="x--NQhEB0yfk0Soro504-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;strokeWidth=1;endSize=1;startSize=1;jumpSize=1;exitX=1.036;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.066;entryY=0.659;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="550" as="sourcePoint" />
-            <mxPoint x="490" y="500" as="targetPoint" />
+            <mxPoint x="242.5" y="747.5" as="sourcePoint" />
+            <mxPoint x="107.5" y="562.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
