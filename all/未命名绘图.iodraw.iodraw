@@ -25,7 +25,7 @@
             <mxPoint x="280" y="385" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-10">
+        <UserObject label="基于深度学习的 NVS / 三维重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
             <mxGeometry x="130" y="245" width="120" height="60" as="geometry" />
           </mxCell>
@@ -35,7 +35,7 @@
             <mxPoint x="280" y="465" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-17">
+        <UserObject label="传统多视角立体重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-17">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
             <mxGeometry y="245" width="120" height="60" as="geometry" />
           </mxCell>
