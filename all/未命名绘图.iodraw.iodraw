@@ -87,7 +87,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="680" y="275" width="223" height="305" as="geometry">
+          <mxGeometry x="743" y="275" width="223" height="425" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -119,7 +119,7 @@
             <mxPoint x="853" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;h3&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;&lt;span lang=&quot;EN-US&quot;&gt;ROI &lt;/span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12px;&quot;&gt;约束下的高斯重建验证&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-41">
+        <UserObject label="&lt;h3&gt;&lt;span style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;&amp;nbsp;&lt;span lang=&quot;EN-US&quot;&gt;ROI &lt;/span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12px;&quot;&gt;约束下的高斯重建验证&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-41">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
             <mxGeometry x="50" y="265" width="120" height="60" as="geometry" />
           </mxCell>
