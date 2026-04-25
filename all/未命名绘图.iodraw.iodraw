@@ -87,7 +87,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="743" y="275" width="223" height="305" as="geometry">
+          <mxGeometry x="680" y="275" width="223" height="305" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
