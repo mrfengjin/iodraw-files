@@ -56,13 +56,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-20" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="530" y="275" width="400" height="310" as="geometry">
+          <mxGeometry x="510" y="275" width="290" height="310" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <UserObject label="  多源特征融合的弱纹理区域识别" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-21">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
-            <mxGeometry x="140" y="45" width="120" height="60" as="geometry" />
+            <mxGeometry x="85" y="45" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-20" source="6ln-nY6H9Tqeiis7B4-Y-21" target="6ln-nY6H9Tqeiis7B4-Y-23">
@@ -70,17 +70,17 @@
         </mxCell>
         <UserObject label=" 多源先验引导的分区几何正则化" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-23">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
-            <mxGeometry x="140" y="145" width="120" height="60" as="geometry" />
+            <mxGeometry x="85" y="145" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-20" source="6ln-nY6H9Tqeiis7B4-Y-23" target="6ln-nY6H9Tqeiis7B4-Y-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="385" as="sourcePoint" />
+            <mxPoint x="235" y="385" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="基于深度学习的 NVS / 三维重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-25">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
-            <mxGeometry x="140" y="245" width="120" height="60" as="geometry" />
+            <mxGeometry x="85" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
