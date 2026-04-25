@@ -55,6 +55,9 @@
             <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-69" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="6ln-nY6H9Tqeiis7B4-Y-20" target="6ln-nY6H9Tqeiis7B4-Y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-20" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="570" y="275" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
@@ -87,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="高斯表面重建效率优化研究" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="590" y="680" width="223" height="335" as="geometry">
+          <mxGeometry x="570" y="680" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -183,9 +186,6 @@
             <mxGeometry x="51.5" y="205" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-68" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=classic;entryX=0.42;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" source="6ln-nY6H9Tqeiis7B4-Y-20" target="6ln-nY6H9Tqeiis7B4-Y-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
