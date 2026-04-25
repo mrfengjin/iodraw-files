@@ -68,7 +68,7 @@
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-20" source="6ln-nY6H9Tqeiis7B4-Y-21" target="6ln-nY6H9Tqeiis7B4-Y-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="国内外研究现状" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-23">
+        <UserObject label=" 多源先验引导的分区几何正则化" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-23">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
             <mxGeometry x="140" y="145" width="120" height="60" as="geometry" />
           </mxCell>
@@ -81,26 +81,6 @@
         <UserObject label="基于深度学习的 NVS / 三维重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-25">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
             <mxGeometry x="140" y="245" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-20" source="6ln-nY6H9Tqeiis7B4-Y-23" target="6ln-nY6H9Tqeiis7B4-Y-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="465" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="传统多视角立体重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-27">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
-            <mxGeometry x="10" y="245" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" parent="6ln-nY6H9Tqeiis7B4-Y-20" source="6ln-nY6H9Tqeiis7B4-Y-23" target="6ln-nY6H9Tqeiis7B4-Y-29">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="465" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <UserObject label="基于 GS 的表面重建" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-29">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
-            <mxGeometry x="270" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
