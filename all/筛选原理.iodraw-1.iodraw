@@ -32,7 +32,7 @@
           <mxGeometry x="500" y="595" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-120;" parent="1" vertex="1">
-          <mxGeometry x="600" y="550" width="52" height="25" as="geometry" />
+          <mxGeometry x="640" y="490" width="52" height="25" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-16" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=#e51400;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="314" y="270" width="20" height="20" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="522" y="640" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-37" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;C&lt;span style=&quot;font-size: 6.94444px;&quot;&gt;7&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="585" width="30" height="30" as="geometry" />
+          <mxGeometry x="680" y="525" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;P&lt;sub&gt;bg&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="294" y="250" width="30" height="30" as="geometry" />
