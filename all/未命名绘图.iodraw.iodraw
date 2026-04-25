@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="高斯表面重建效率优化研究" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="680" y="680" width="223" height="335" as="geometry">
+          <mxGeometry x="590" y="680" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -128,7 +128,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-46" value="数据集制作与实验验证" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="363" y="720" width="223" height="335" as="geometry">
+          <mxGeometry x="323" y="680" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -166,7 +166,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-59" value="总结与展望" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="60" y="720" width="223" height="335" as="geometry">
+          <mxGeometry x="20" y="680" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
