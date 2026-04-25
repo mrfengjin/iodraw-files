@@ -12,7 +12,7 @@
             <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="6ln-nY6H9Tqeiis7B4-Y-4" target="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=classic;endArrow=none;startFill=1;" edge="1" source="6ln-nY6H9Tqeiis7B4-Y-4" target="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-8">
