@@ -91,7 +91,7 @@
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="  多源特征融合的弱纹理区域识别" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-34">
+        <UserObject label="&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:10.5pt;&lt;br/&gt;line-height:150%;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;几何一致性筛选与空间聚类&lt;/span&gt;" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-34">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-33">
             <mxGeometry x="50" y="45" width="120" height="60" as="geometry" />
           </mxCell>
