@@ -9,7 +9,7 @@
         </mxCell>
         <UserObject label=" 研究背景与意义" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-4">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
-            <mxGeometry x="150" y="45" width="120" height="60" as="geometry" />
+            <mxGeometry x="140" y="45" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" source="6ln-nY6H9Tqeiis7B4-Y-4" target="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
@@ -17,37 +17,37 @@
         </mxCell>
         <UserObject label="国内外研究现状" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-8">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
-            <mxGeometry x="150" y="145" width="120" height="60" as="geometry" />
+            <mxGeometry x="140" y="145" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-9" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" target="6ln-nY6H9Tqeiis7B4-Y-10" source="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="385" as="sourcePoint" />
+            <mxPoint x="290" y="385" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-10">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
-            <mxGeometry x="150" y="245" width="120" height="60" as="geometry" />
+            <mxGeometry x="140" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" target="6ln-nY6H9Tqeiis7B4-Y-17" source="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="465" as="sourcePoint" />
+            <mxPoint x="290" y="465" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-17">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
-            <mxGeometry x="20" y="245" width="120" height="60" as="geometry" />
+            <mxGeometry x="10" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;startFill=0;endFill=1;" edge="1" target="6ln-nY6H9Tqeiis7B4-Y-19" source="6ln-nY6H9Tqeiis7B4-Y-8" parent="6ln-nY6H9Tqeiis7B4-Y-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="465" as="sourcePoint" />
+            <mxPoint x="290" y="465" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Organization" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-19">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6ln-nY6H9Tqeiis7B4-Y-1">
-            <mxGeometry x="280" y="245" width="120" height="60" as="geometry" />
+            <mxGeometry x="270" y="245" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
