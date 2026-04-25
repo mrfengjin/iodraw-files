@@ -86,7 +86,7 @@
             <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-54" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="1" source="6ln-nY6H9Tqeiis7B4-Y-33" target="6ln-nY6H9Tqeiis7B4-Y-46">
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-54" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=classic;endFill=1;" edge="1" parent="1" source="6ln-nY6H9Tqeiis7B4-Y-33" target="6ln-nY6H9Tqeiis7B4-Y-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="高斯表面重建效率优化研究" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
