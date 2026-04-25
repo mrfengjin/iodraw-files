@@ -121,11 +121,8 @@
         <mxCell id="kqA3fOVjUYb93ncLGmof-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;P&lt;sub&gt;bg&lt;/sub&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="294" y="250" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x--NQhEB0yfk0Soro504-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kqA3fOVjUYb93ncLGmof-39" target="kqA3fOVjUYb93ncLGmof-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;P&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;0&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="345" y="360" width="30" height="30" as="geometry" />
+          <mxGeometry x="630" y="350" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
