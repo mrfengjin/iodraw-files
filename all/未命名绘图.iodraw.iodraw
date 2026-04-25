@@ -60,7 +60,7 @@
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <UserObject label=" 研究背景与意义" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-21">
+        <UserObject label="  多源特征融合的弱纹理区域识别" treeRoot="1" id="6ln-nY6H9Tqeiis7B4-Y-21">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="6ln-nY6H9Tqeiis7B4-Y-20">
             <mxGeometry x="140" y="45" width="120" height="60" as="geometry" />
           </mxCell>
