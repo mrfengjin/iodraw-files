@@ -168,7 +168,7 @@
             <mxGeometry x="50" y="265" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-59" value="数据集制作与实验验证" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-59" value="总结与展望" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="397" y="690" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
