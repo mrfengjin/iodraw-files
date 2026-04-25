@@ -122,7 +122,7 @@
           <mxGeometry x="294" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kqA3fOVjUYb93ncLGmof-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;P&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;0&lt;/sub&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="320" width="30" height="30" as="geometry" />
+          <mxGeometry x="365" y="370" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x--NQhEB0yfk0Soro504-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;rotation=-28;" vertex="1" parent="1">
           <mxGeometry x="70" y="515" width="52" height="25" as="geometry" />
