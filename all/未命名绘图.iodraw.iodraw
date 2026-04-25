@@ -86,7 +86,7 @@
             <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="基于主体感知与资源自适应分配的高斯表面重建效率优化研究" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=0" vertex="1" parent="1">
+        <mxCell id="6ln-nY6H9Tqeiis7B4-Y-33" value="基于主体感知与资源自适应分配的高斯表面重建效率优化研究" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="743" y="275" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
