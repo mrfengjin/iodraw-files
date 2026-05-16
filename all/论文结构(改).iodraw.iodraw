@@ -126,8 +126,8 @@
             <mxGeometry x="51.5" y="205" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-7" value="绪论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
