@@ -140,7 +140,7 @@
         <mxCell id="bzEoyv_Pt4AIp4Znxp9x-21" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;h3 style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;三维几何引导的目标掩码生成&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="290" width="247" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-22" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;实验与分析&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-22" value="&lt;ul&gt;&lt;li&gt;&lt;h2&gt;&lt;span lang=&quot;EN-US&quot;&gt;ROI&lt;/span&gt;&lt;span style=&quot;font-family: 黑体; font-size: 14px;&quot;&gt;约束下的高斯重建&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h2&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="350" width="247" height="60" as="geometry" />
         </mxCell>
       </root>
