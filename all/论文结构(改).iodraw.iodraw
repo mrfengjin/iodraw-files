@@ -130,7 +130,7 @@
           <mxGeometry x="40" y="10" width="610" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzEoyv_Pt4AIp4Znxp9x-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="70" width="610" height="70" as="geometry" />
+          <mxGeometry x="50" y="70" width="610" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bzEoyv_Pt4AIp4Znxp9x-9" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;研究背景与意义&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="90" width="150" height="30" as="geometry" />
