@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6ln-nY6H9Tqeiis7B4-Y-20" value="融合几何先验的 GS 弱纹理表面重建方法" style="swimlane;startSize=35;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-          <mxGeometry x="30" y="210" width="223" height="335" as="geometry">
+          <mxGeometry x="680" y="280" width="223" height="335" as="geometry">
             <mxRectangle x="60" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -140,6 +140,9 @@
         </mxCell>
         <mxCell id="bzEoyv_Pt4AIp4Znxp9x-11" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;line-height: 150%;&quot;&gt;研究内容与结构安排&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
