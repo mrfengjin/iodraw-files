@@ -132,8 +132,8 @@
         <mxCell id="bzEoyv_Pt4AIp4Znxp9x-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="70" width="610" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-9" value="研究背景与意义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="110" height="30" as="geometry" />
+        <mxCell id="bzEoyv_Pt4AIp4Znxp9x-9" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;研究背景与意义&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
